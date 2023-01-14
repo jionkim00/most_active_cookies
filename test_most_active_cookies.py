@@ -146,7 +146,7 @@ def test_custom_case_3():
 
 
 if __name__ == "__main__":
-
+    print("run using the command \"$ pytest test_most_active_cookies.py\"")
     pass
     
 
